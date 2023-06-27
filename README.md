@@ -20,7 +20,7 @@ This project employs various regression algorithms to predict air quality parame
 The models are trained on the training set and evaluated on the testing set using performance metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared.
 
 | Model | MAE | RMSE | R-squared |
-| --- | --- | --- | --- |
+| :--- | :---: | :---: | :---: |
 | Linear Regression | 30.18 | 45.55 | 0.67 |
 | Random Forest Regression | 18.66 | 30.36 | 0.85 |
 | Gradient Boosting Regression | 25.59 | 40.21 | 0.74 |
